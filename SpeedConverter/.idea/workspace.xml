@@ -51,21 +51,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1220" height="279" key="GridCell.Tab.0.bottom" timestamp="1584822845210">
+    <state width="1220" height="279" key="GridCell.Tab.0.bottom" timestamp="1584824565804">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1220" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1584822845210" />
-    <state width="1220" height="279" key="GridCell.Tab.0.center" timestamp="1584822845210">
+    <state width="1220" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1584824565804" />
+    <state width="1220" height="279" key="GridCell.Tab.0.center" timestamp="1584824565804">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1220" height="279" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1584822845210" />
-    <state width="1220" height="279" key="GridCell.Tab.0.left" timestamp="1584822845210">
+    <state width="1220" height="279" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1584824565804" />
+    <state width="1220" height="279" key="GridCell.Tab.0.left" timestamp="1584824565804">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1220" height="279" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1584822845210" />
-    <state width="1220" height="279" key="GridCell.Tab.0.right" timestamp="1584822845210">
+    <state width="1220" height="279" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1584824565804" />
+    <state width="1220" height="279" key="GridCell.Tab.0.right" timestamp="1584824565804">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1220" height="279" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584822845210" />
+    <state width="1220" height="279" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584824565804" />
+    <state x="22" y="140" key="new project wizard" timestamp="1584824564172">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="22" y="140" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1584824564172" />
   </component>
 </project>
