@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1902482-45ef-48fa-bb80-4d2f8bb6ed15" name="Default Changelist" comment="" />
+    <list default="true" id="032d806b-94f5-4c40-8d6b-1e39d32515ef" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1a8yl0IhrV5TVOm2zpV6F3c8prm" />
+  <component name="ProjectId" id="1a93clIUoevS0AErTcJHNZIqcvU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -33,16 +33,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="UserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UserInput" />
-      <module name="ReadingUserInput" />
+    <configuration name="ReadingUserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadingUserInput" />
+      <module name="ReadingUserInputChallenge" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UserInput" />
+        <item itemvalue="Application.ReadingUserInput" />
       </list>
     </recent_temporary>
   </component>
@@ -51,11 +51,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d1902482-45ef-48fa-bb80-4d2f8bb6ed15" name="Default Changelist" comment="" />
-      <created>1586131662951</created>
+      <changelist id="032d806b-94f5-4c40-8d6b-1e39d32515ef" name="Default Changelist" comment="" />
+      <created>1586134064007</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586131662951</updated>
+      <updated>1586134064007</updated>
     </task>
     <servers />
   </component>
