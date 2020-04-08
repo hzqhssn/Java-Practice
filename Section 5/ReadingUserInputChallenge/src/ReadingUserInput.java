@@ -7,10 +7,11 @@ public class ReadingUserInput {
     {
         Scanner scanner = new Scanner(System.in);
         int total = 0;
-        for(int i=1; i<=10; i++)
+        int i = 0;
+        while ( i <= 10)
         {
-            System.out.println("Enter number :"+ i);
-            total += scanner.nextInt();
+
+
 
         }
 
