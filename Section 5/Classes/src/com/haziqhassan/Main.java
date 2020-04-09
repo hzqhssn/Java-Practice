@@ -1,5 +1,5 @@
 package com.haziqhassan;
 
-public class Main {
+public class Main(String[] args) {
 
 }
