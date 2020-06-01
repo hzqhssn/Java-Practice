@@ -1,7 +1,7 @@
 public class Palindrome {
 
     public static void main(String[] args) {
-        System.out.println(isPalindrome(24552));
+        System.out.println(isPalindrome(2356));
 
 
     }
