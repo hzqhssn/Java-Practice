@@ -6,9 +6,7 @@ public class Palindrome {
 
     }
     public static boolean isPalindrome(int number) {
-
         int reverse = 0;
-
         if(number < 0){
             number *= -1;
         }
@@ -21,7 +19,6 @@ public class Palindrome {
         }
         System.out.println(number);
         System.out.println(reverse);
-
         if (reverse == number) {
             return true;
         } else {
