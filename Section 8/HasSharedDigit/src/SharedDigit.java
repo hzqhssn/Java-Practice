@@ -3,21 +3,21 @@ public class SharedDigit {
         System.out.println(hasSharedDigit(12,99));
     }
     public static boolean hasSharedDigit(int A,int B){
-        if((A<10||A>99)||(B<10||B>99)){
+        if((A < 10||A > 99)||(B < 10||B > 99)){
             return false;
         }
-        int NumB=B;
-        while(A>0){
-            int numADig=A%10;
+        int NumB = B;
+        while(A > 0){
+            int numA = A % 10;
             while(B>0){
-                int numB=B%10;
-                if(numADig==numB){
+                int numB = B % 10;
+                if(numA == numB){
                     return true;
                 }
                 B=B/10;
             }
-            A=A/10;
-            B=NumB;
+            A = A/10;
+            B = NumB;
         }
         return false;
     }
