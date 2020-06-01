@@ -14,7 +14,7 @@ public class SharedDigit {
                 if(numA == numB){
                     return true;
                 }
-                B=B/10;
+                B = B/10;
             }
             A = A/10;
             B = NumB;
