@@ -1,4 +1,4 @@
-public class Person {
+public class Paint {
     public static void main(String[] args) {
         System.out.println(getBucketCount(-3, 4, 1.5));
     }
