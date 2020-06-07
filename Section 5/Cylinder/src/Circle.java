@@ -3,7 +3,7 @@ public class Circle {
 
     public Circle( double radius)
     {
-        if(radius<0)
+        if(radius < 0)
         {
             this.radius = 0;
         }
